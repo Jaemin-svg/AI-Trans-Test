@@ -1,0 +1,10 @@
+# 라이트/다크를 따로 지정해야 시스템 테마 자동 전환이 유지된다.
+# ([theme]에 바로 색을 지정하면 라이트 고정 커스텀 테마가 된다.)
+[theme.light]
+primaryColor = "#2563EB"
+
+[theme.dark]
+primaryColor = "#3B82F6"
+
+[browser]
+gatherUsageStats = false
